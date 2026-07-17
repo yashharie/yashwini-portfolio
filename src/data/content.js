@@ -5,12 +5,7 @@ export const profile = {
   email: "yaswiniharie@gmail.com",
   linkedin: "https://www.linkedin.com/in/yaswini-harigowrirajan",
   github: "https://github.com/yashharie",
-  summary:"Motivated and passionate Java Developer with a strong foundation in Java programming, object-oriented programming (OOP), 
-  database management, and software development principles. Experienced in developing full-stack 
-  web applications using Java, Laravel, React.js, PHP, JavaScript, and MySQL through academic and personal projects. 
-  Designed and implemented a real-world LPG Supply and Distribution Management System featuring role-based workflows, 
-  REST API integration, and AI-based prediction. Eager to apply problem-solving skills, continuously learn new technologies,
-  and contribute to building efficient, scalable, and user-focused software solutions."
+  summary:"Motivated and passionate Java Developer with a strong foundation in Java programming, object-oriented programming (OOP), database management, and software development principles. Experienced in developing full-stack web applications using Java, Laravel, React.js, PHP, JavaScript, and MySQL through academic and personal projects. Designed and implemented a real-world LPG Supply and Distribution Management System featuring role-based workflows, REST API integration, and AI-based prediction. Eager to apply problem-solving skills, continuously learn new technologies, and contribute to building efficient, scalable, and user-focused software solutions."
 
 };
 
