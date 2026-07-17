@@ -160,15 +160,7 @@ export default function Projects() {
                   ))}
                 </ul>
 
-                <div className="flex gap-3 mt-4">
-                  <a
-                    href={p.links.repo}
-                    className="inline-flex items-center gap-1.5 text-xs font-mono text-ink hover:text-signal transition-colors"
-                  >
-                    <Code2 size={14} /> repository
-                  </a>
-               
-                </div>
+                
               </motion.div>
             ))}
           </div>
