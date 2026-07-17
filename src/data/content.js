@@ -5,8 +5,13 @@ export const profile = {
   email: "yaswiniharie@gmail.com",
   linkedin: "https://www.linkedin.com/in/yaswini-harigowrirajan",
   github: "https://github.com/yashharie",
-  summary:
-    "Motivated and passionate Full Stack Developer Intern candidate with hands-on experience building modern web applications using Laravel, React.js, PHP, JavaScript, and MySQL. Experienced in designing and implementing real-world software solutions — including a full-stack LPG Supply and Distribution Management System with role-based workflows, REST API integration, and AI-based prediction features. Strong problem-solving ability with a passion for learning new technologies and building efficient, user-focused applications.",
+  summary:"Motivated and passionate Java Developer with a strong foundation in Java programming, object-oriented programming (OOP), 
+  database management, and software development principles. Experienced in developing full-stack 
+  web applications using Java, Laravel, React.js, PHP, JavaScript, and MySQL through academic and personal projects. 
+  Designed and implemented a real-world LPG Supply and Distribution Management System featuring role-based workflows, 
+  REST API integration, and AI-based prediction. Eager to apply problem-solving skills, continuously learn new technologies,
+  and contribute to building efficient, scalable, and user-focused software solutions."
+
 };
 
 export const education = {
