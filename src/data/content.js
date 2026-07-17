@@ -131,5 +131,5 @@ export const softSkills = [
 export const languages = [
   { name: "Tamil", level: "Fluent", value: 100 },
   { name: "English", level: "Good", value: 75 },
-  { name: "Sinhala", level: "Basic / Intermediate", value: 40 },
+  { name: "Sinhala", level: "Basic", value: 40 },
 ];
