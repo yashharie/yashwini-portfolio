@@ -97,7 +97,7 @@ export default function Projects() {
             {[
               { icon: Truck, label: "Delivery tracking" },
               { icon: Warehouse, label: "Warehouse mgmt" },
-              { icon: Users, label: "5 user roles" },
+              { icon: Users, label: "4 user roles"},
               { icon: Radar, label: "AI demand forecast" },
             ].map(({ icon: Icon, label }) => (
               <div
