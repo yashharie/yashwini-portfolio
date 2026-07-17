@@ -2,9 +2,9 @@ export const profile = {
   name: "Yaswini Harigowrirajan",
   role: "Full Stack Developer Intern",
   stack: ["Java", "Laravel", "React", "MySQL"],
-  email: "yaswiniharie@gmail.com",
-  linkedin: "https://www.linkedin.com/in/yaswini-harigowrirajan",
-  github: "https://github.com/yashharie",
+  email: 
+  linkedin:
+  github: 
   summary:
     "Motivated and passionate Full Stack Developer Intern candidate with hands-on experience building modern web applications using Laravel, React.js, PHP, JavaScript, and MySQL. Experienced in designing and implementing real-world software solutions — including a full-stack LPG Supply and Distribution Management System with role-based workflows, REST API integration, and AI-based prediction features. Strong problem-solving ability with a passion for learning new technologies and building efficient, user-focused applications.",
 };
