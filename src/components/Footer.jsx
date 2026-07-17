@@ -7,10 +7,6 @@ export default function Footer() {
         <p className="font-mono text-xs text-mist">
           © {new Date().getFullYear()} {profile.name} 
         </p>
-        <p className="font-mono text-xs text-mist flex items-center gap-1.5">
-          <span className="w-1.5 h-1.5 rounded-full bg-signal animate-pulse" />
-          status: online
-        </p>
       </div>
     </footer>
   );
