@@ -18,7 +18,7 @@ I am a motivated and passionate **Full Stack Developer** with hands-on experienc
 
 * React.js
 * Vite
-* JavaScript (ES6+)
+* JavaScript
 * HTML5
 * CSS3
 
@@ -144,4 +144,3 @@ npm run preview
 
 
 
-⭐ If you like this portfolio, feel free to star the repository!
